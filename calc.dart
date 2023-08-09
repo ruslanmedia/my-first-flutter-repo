@@ -1,3 +1,5 @@
 void main() {
-  print('Calc');
+  int a = 5;
+  int b = 7;
+  print(a+b);
 }
