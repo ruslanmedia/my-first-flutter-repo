@@ -1,4 +1,4 @@
 void main() {
-  String name = "Ruslan";
+  String name = "Asatbek";
   print("Salom " + name);
 }
